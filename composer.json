@@ -1,9 +1,13 @@
 {
-    "name": "pagevamp/laravel-cloudwatch-logs",
-    "description": "Laravel Adapter for AWS CloudWatch",
+    "name": "alexbaldo/laravel-cloudwatch-logs",
+    "description": "Laravel Adapter for AWS CloudWatch (comp. with Laravel 12)",
     "type": "library",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Alejandro Baldominos",
+            "email": "me@bal.do",
+        }
         {
             "name": "Naren Chitrakar",
             "email": "developer.naren@gmail.com"
